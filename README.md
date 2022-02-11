@@ -16,7 +16,7 @@
 
 **A little bit about me:**
 - 🏠 I’m living in Finland, Lahti  🇫🇮
-- 🎓 My current place of study: IT @ [LAB University of Applied Sciences](https://lab.fi/en)
+- 🎓 I'm in my third year of ICT studies in @ [LAB University of Applied Sciences](https://lab.fi/en)
 - 🌱  At the moment I'm learning React
 - 💬  Ask me about anything, I am happy to help.
 - 📫  How to reach me: leohannolainen999@gmail.com
