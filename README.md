@@ -34,8 +34,7 @@
 ---
 
 <p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/leolab1337/count.svg" />
+  <img width= 200rem src="https://komarev.com/ghpvc/?username=leolab1337&style=plastic&color=5194f0" />
 </p>
 
 
