@@ -20,7 +20,7 @@
 - 🌱  At the moment I'm learning React
 - 💬  Ask me about anything, I am happy to help.
 - 📫  How to reach me: leohannolainen999@gmail.com
-- 🚀 I plan to learn next: React Native, Electron, 
+- 🚀 I plan to learn next: nestjs, react mobx
 
 ***
 
