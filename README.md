@@ -17,7 +17,7 @@
 **A little bit about me:**
 - 🏠 I’m living in Finland, Lahti  🇫🇮
 - 🎓 I'm in my third year of ICT studies at @ [LAB University of Applied Sciences](https://lab.fi/en)
-- 🌱  At the moment I'm learning React
+- 🌱  At the moment I'm learning Angular & React
 - 💬  Ask me about anything, I am happy to help.
 - 📫  How to reach me: leohannolainen999@gmail.com
 - 🚀 I plan to learn next: nestjs, react mobx
