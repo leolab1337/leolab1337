@@ -25,7 +25,7 @@
 ***
 
 
-![Anurag's github stats](https://github-readme-stats-leolab1337s-projects.vercel.app//api?username=leolab1337&show_icons=true) 
+![Anurag's github stats](https://github-readme-stats-leolab1337s-projects.vercel.app//api?username=leolab1337&show_icons=true&show=reviews,prs_merged_percentage) 
 
 
 #### The summary of the main languages present on my github : 
